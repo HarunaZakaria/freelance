@@ -1,6 +1,9 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  --custom-primary-color: #0067ff;
+  --custom-secondary-color: #fba504;
+  --custom-tertiary-color: #143f87;
 }
